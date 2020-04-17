@@ -1,0 +1,5 @@
+DOMAIN DRIVEN DEVELOPMENT
+
+The basic idea is simple and similar to seperation of concerns: you seperate code into models and assign functionality in such a way that it scales best.
+
+Example: web shop has a user model and an order model. You can add all funcionality to the user model class but that becomes problematic when you have a lot of functionality propped into one single class. Each new instance of that class is bloated. It may be better to spread that out to other classes. For example, the confirmation email, where does it go?

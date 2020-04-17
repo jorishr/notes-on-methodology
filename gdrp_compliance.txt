@@ -1,0 +1,7 @@
+GDPR
+
+General Data Protection Regulations: you must inform users if you collect or use any of their personal data and make them aware of any associated privacy policies. The explanations should be concise, transparent and easily accessible.
+
+- only store Personal Data that you really need and be able to justify why data is being kept and what it’s being used for. 
+- make it easy to retrieve, delete or anonymise data when you need to.
+- get fair consent before you communicate with users and maintain a preferences management page. 
