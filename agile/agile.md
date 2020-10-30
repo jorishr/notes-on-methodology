@@ -1,6 +1,6 @@
-# Agile
+# Agile software development
 Table of contents
-- [Agile](#agile)
+- [Agile software development](#agile-software-development)
   - [About Agile](#about-agile)
   - [JIRA example: stories, epics and sprints](#jira-example-stories-epics-and-sprints)
   - [Workshop: Agile inside out blueprint](#workshop-agile-inside-out-blueprint)
