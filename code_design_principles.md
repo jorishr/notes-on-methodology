@@ -1,5 +1,7 @@
 # S.O.L.I.D. Code Design principles
 
+Note that in real life situations design patterns need to offer a clear use case or advantage. Usually the creation of refactoring of the code into patterns is not worth the time and effort because it is unlikely that more complex use case will be needed in the future. Future-proofing your application is not always a good strategy.
+
 ## 1. Single-responsibility principle
 A class or module should have one, and only one, reason to be changed (i.e. rewritten).
 
