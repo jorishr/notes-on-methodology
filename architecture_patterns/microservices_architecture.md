@@ -8,15 +8,15 @@ Table of contents
 
 ## The problem
 
-In the traditional approach a (web) application's codebase is broken up into modules that represent a part of the functionality for better maintenance. Those modules are then compiled into one single application that is delivered to the server/end user.
+In the traditional approach a (web) application's code base is broken up into modules that represent a part of the functionality for better maintenance. Those modules are then compiled into one single application that is delivered to the server/end user.
 
 - As the complexity of applications increases testing and redeploying a monolithic app after each minor update can become inefficient.
-- Scalability: not every part of the codebase needs to scale at the same rate. For example, the shopping cart functionality of a web shop needs to be able to handle spikes in traffic but other parts of the website not so much.
+- Scalability: not every part of the code base needs to scale at the same rate. For example, the shopping cart functionality of a web shop needs to be able to handle spikes in traffic but other parts of the website not so much.
 
-Despite all the talk about microservices, most applications will start off as monolithic and move onto a more service oriented architecture as the codebase grows and more developers are involved.
+Despite all the talk about microservices, most applications will start off as monolithic and move onto a more service oriented architecture as the code base grows and more developers are involved.
 
 ## SOA: Service Oriented Architecture 
-The service oriented architecture usually evolves from a growing monolithic codebase. Some part, for example, the code that handles orders in a webshop, will be put into own codebase. The end-user experience is exactly the same but now there is a separate service that depends on the monolithic app to do its job.
+The service oriented architecture usually evolves from a growing monolithic code base. Some part, for example, the code that handles orders in a webshop, will be put into own code base. The end-user experience is exactly the same but now there is a separate service that depends on the monolithic app to do its job.
 
 ## Microservices
 There is no formal definition for microservices and it basically is a continuation of the SOA architecture. The difference is that the size or scope of each service is as small as possible. Thus,

@@ -3,7 +3,7 @@ Kanban a visual process management tool. Items, user stories, can be processed b
 
 Backlog -> Planning/coordination -> design -> develop -> accept
 
-KANBAN (visual card in Japanese) can be combined with SCRUM/AGILE but does not require to have sprints and can works as a continous process whereby a new item is pulled-out when done and a new item can be pulled from the back-log to be incorporated.
+KANBAN (visual card in Japanese) can be combined with SCRUM/AGILE but does not require to have sprints and can works as a continuous process whereby a new item is pulled-out when done and a new item can be pulled from the back-log to be incorporated.
 
 The key is to limit the work in progress in relation to the capacity of the team. Usually, the number of team members + 50%.
 

@@ -45,7 +45,7 @@ STEP IV: Get constraint
 The work in progress needs to be limited. As a team you have to figure out what you are capable of delivering. This capacity is limited and should be taken seriously, don't overestimate or brag about.
 
 STEP V: Get predictable
-From an organizational prespective predictability is important, more so then fast delivery. Predictably putting out results is key,
+From an organizational perspective predictability is important, more so then fast delivery. Predictably putting out results is key,
 
 ### Horizontal slicing approach
 - Sprint one: database; 
