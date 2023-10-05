@@ -1,1 +1,1 @@
-# Note on software methodology and architecture
+# Note on software development methodology and architecture
